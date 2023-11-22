@@ -15,4 +15,5 @@ Open a terminal and run bash build scripts like:
 ```
 bash mongo/build.sh
 bash mysql/build.sh
+bash dynamodb/run.sh
 ```
