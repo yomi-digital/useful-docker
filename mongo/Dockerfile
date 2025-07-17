@@ -1,4 +1,4 @@
-FROM mongo:bionic
+FROM mongo:latest
 
 EXPOSE 27107
 
